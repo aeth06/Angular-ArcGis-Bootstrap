@@ -1,6 +1,6 @@
 # AngularIssues
 
-App demoing issues I'm having getting @arcgis/core working in an Angular app using Bootstrap
+App demoing issues I'm having with Angular apps. For now, specifically getting @arcgis/core working in an Angular app using Bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
